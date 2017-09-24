@@ -1,9 +1,5 @@
 # unity3d-package-utils
 
-[![npm version](https://badge.fury.io/js/unity3d-package-utils.svg)](https://badge.fury.io/js/unity3d-package-utils)
-[![Dependency Status](https://david-dm.org/rotorz/unity3d-package-utils.svg)](https://david-dm.org/rotorz/unity3d-package-utils)
-[![devDependency Status](https://david-dm.org/rotorz/unity3d-package-utils/dev-status.svg)](https://david-dm.org/rotorz/unity3d-package-utils#info=devDependencies)
-
 Utility functionality for unity3d-package's to ease access to package assets and generated
 data assets.
 
