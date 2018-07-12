@@ -7,10 +7,13 @@ data assets.
 ## Installation
 
 ```sh
-$ npm install --save rotorz/unity3d-package-utils
+$ yarn add rotorz/unity3d-package-utils
 ```
 
-This package is compatible with [unity3d-package-syncer](https://github.com/rotorz/unity3d-package-syncer).
+This package is compatible with the [unity3d-package-syncer][tool] tool. Refer to the
+tools' [README][tool] for information on syncing packages into a Unity project.
+
+[tool]: https://github.com/rotorz/unity3d-package-syncer
 
 
 ## Accessing read-only assets from a package
