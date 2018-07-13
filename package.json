@@ -1,6 +1,6 @@
 {
   "name": "@rotorz/unity3d-package-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility functionality for unity3d-package's to ease access to package assets and generated data assets.",
   "main": "index.js",
   "scripts": {
